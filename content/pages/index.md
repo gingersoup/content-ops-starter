@@ -4,14 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Designing succesful products & services
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Crafting Exceptional Brands, Web Designs, and User Experiences.
+    At Allstars design, we are passionate about crafting exceptional user experiences that blend creativity, functionality, and innovation. Our team of seasoned UX and Interaction Design experts is dedicated to transforming ideas into intuitive and engaging digital products. With a keen eye for detail and a commitment to excellence, we strive to create designs that not only meet but exceed our clients’ expectations.
     actions:
       - label: Get started
         altText: ''
